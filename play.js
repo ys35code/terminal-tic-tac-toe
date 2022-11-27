@@ -1,6 +1,6 @@
 import prompt from 'prompt';
 import { isGameOver } from './status-checker.js';
-import { validateMove, makeMove } from './move-maker.js';
+import { makeMove } from './move-maker.js';
 import { printBoard } from './board-printer.js';
 
 prompt.message = '';
