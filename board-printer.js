@@ -12,6 +12,7 @@
              |  X  |     
         =================
           O  |  O  |  X  
+        =================
     Test your function by calling it with an example tic-tac-toe board.
 */
 export function printBoard(board) {
