@@ -1,3 +1,5 @@
+import { checkIfNoMovesLeft } from './board-printer.js';
+
 /*
     Example board:
         let board = [
@@ -38,14 +40,6 @@ function checkColumn(board, player, columnNumber) {
 */
 function checkDiagonal(board, player) {
     // It may be easier to use an if statement than a loop here
-}
-
-/*
-    Given a tic-tac-toe board (an array of arrays),
-        - return true if there are no moves left to make (there are no more '_' values)
-        - return false if there are still moves that can be made
-*/
-function checkIfNoMovesLeft(board) {
 }
 
 
