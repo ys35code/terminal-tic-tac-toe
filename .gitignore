@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+/slide-notes.js
+/moveMakerCopy.js
+/boardPrinterCopy.js
